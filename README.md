@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm SeongJin Hong
 
-🌱 I’m currently learning about frontend and backend
+🌱 I’m currently learning about full stack
 <br><br>
 ### what language i can use
 
